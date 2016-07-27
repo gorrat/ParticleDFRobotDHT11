@@ -1,2 +1,1 @@
-# ParticleDFRobotDHT11
-A port of the DFRobot DHT11 Arduino library for the Particle Photon
+This is a port of the DFRobot DHT11 Arduino Library located here: http://www.dfrobot.com.cn/image/data/DFR0067/dht11.zip
